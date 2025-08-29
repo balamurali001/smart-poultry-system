@@ -58,27 +58,24 @@ The model was evaluated on both training and test datasets. Below are the key me
 
 ###Project Structure
 
-Smart-Poultry-System/
-├── Notebooks/
-│   ├── ChickenDisease_CNN.ipynb
-│   ├── predict_using_cockDiseaseCNN.ipynb
-│   ├── ChickenTemp.ipynb
-│   ├── Chickentemp2.ipynb
-│   └── helper_functions.py
-├── PREDICT HUMIINDEX/
-│   ├── temp_model.ipynb
-│   ├── temp_model - Copy.ipynb
-│   └── helper_functions.py
-├── models/
-├── dataset/
-├── split_dataset/
-├── Thesis/
-├── __pycache__/
-├── app.py
-├── app1.py
-├── model_arch.py
-├── requirements.txt
-├── test.py
-├── split_data.py
-├── proj_desc.txt
-└── README.md
+<details>
+<summary>📁 Project Structure</summary>
+
+| Directory/File | Description |
+|---|---|
+| `Notebooks/` | Jupyter notebooks for model development |
+| `├── ChickenDisease_CNN.ipynb` | Disease detection CNN training |
+| `├── predict_using_cockDiseaseCNN.ipynb` | Disease prediction implementation |
+| `├── helper_functions.py` | Utility functions |
+| `PREDICT HUMIINDEX/` | Environmental prediction module |
+| `├── temp_model.ipynb` | Temperature/humidity model |
+| `├── helper_functions.py` | Environmental utilities |
+| `models/` | Trained ML models |
+| `dataset/` | Training datasets |
+| `split_dataset/` | Preprocessed data |
+| `Thesis/` | Research documentation |
+| `app.py` | Main web application |
+| `model_arch.py` | Model architectures |
+| `requirements.txt` | Dependencies |
+
+</details>
