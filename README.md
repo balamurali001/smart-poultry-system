@@ -59,20 +59,26 @@ The model was evaluated on both training and test datasets. Below are the key me
 ###Project Structure
 
 Smart-Poultry-System/
-├── 📂 Notebooks/                 
-│   ├── ChickenDisease_CNN.ipynb  
+├── Notebooks/
+│   ├── ChickenDisease_CNN.ipynb
 │   ├── predict_using_cockDiseaseCNN.ipynb
-│   └── helper_functions.py       
-├── 📂 PREDICT HUMIINDEX/        
-│   ├── temp_model.ipynb        
+│   ├── ChickenTemp.ipynb
+│   ├── Chickentemp2.ipynb
 │   └── helper_functions.py
-├── 📂 models/                    
-├── 📂 dataset/                   
-├── 📂 split_dataset/           
-├── 📂 Thesis/                
-├── 🐍 app.py                    
-├── 🏗️ model_arch.py          
-├── 📋 requirements.txt          
-└── 📖 README.md                 
-
-
+├── PREDICT HUMIINDEX/
+│   ├── temp_model.ipynb
+│   ├── temp_model - Copy.ipynb
+│   └── helper_functions.py
+├── models/
+├── dataset/
+├── split_dataset/
+├── Thesis/
+├── __pycache__/
+├── app.py
+├── app1.py
+├── model_arch.py
+├── requirements.txt
+├── test.py
+├── split_data.py
+├── proj_desc.txt
+└── README.md
