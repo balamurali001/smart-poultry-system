@@ -1,4 +1,4 @@
-# CNN Model for Chicken disease MRI Dataset
+# CNN Model for Poultry disease MRI Dataset
 
 This project implements a Convolutional Neural Network (CNN) for classifying excreta into various stages of Chicken Disease using the [Best Chicken disease Dataset](<kaggle url>).
 
