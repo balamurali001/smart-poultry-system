@@ -56,4 +56,23 @@ The model was evaluated on both training and test datasets. Below are the key me
 ![Test Data Confusion Matrix](outputs/test_data_cnf_mat.png "Test Data Confusion Matrix")
 
 
+###Project Structure
+
+Smart-Poultry-System/
+├── 📂 Notebooks/                 
+│   ├── ChickenDisease_CNN.ipynb  
+│   ├── predict_using_cockDiseaseCNN.ipynb
+│   └── helper_functions.py       
+├── 📂 PREDICT HUMIINDEX/        
+│   ├── temp_model.ipynb        
+│   └── helper_functions.py
+├── 📂 models/                    
+├── 📂 dataset/                   
+├── 📂 split_dataset/           
+├── 📂 Thesis/                
+├── 🐍 app.py                    
+├── 🏗️ model_arch.py          
+├── 📋 requirements.txt          
+└── 📖 README.md                 
+
 
