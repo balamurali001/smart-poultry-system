@@ -1,0 +1,7 @@
+the thesis consists of the ways we made and improved our outputs,
+1. without early stopping
+2. with es
+3. with es and mobilenet
+
+
+used torch
